@@ -5,6 +5,7 @@ vim for golang
 - vim version >= 8.0
 - mv govim .vim
 - mv .vim/vimrc .vimrc
+- git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 
 ### Install YouCompleteMe
 - vim >= 7.4, gcc 4.8.2
