@@ -10,10 +10,9 @@ vim for golang
 
 #### Install plugins
 - vim ~/.vimrc
-
-"""
+```
 :PluginInstall
-"""
+```
 
 
 ### Install YouCompleteMe
